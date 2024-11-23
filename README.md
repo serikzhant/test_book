@@ -1,6 +1,6 @@
 Запуск консольной программы:
 
-git clone https://github.com/serikzhant/test_book .
+git clone https://github.com/serikzhant/test_book
 <br/>
 cd ./test_book
 <br/>
