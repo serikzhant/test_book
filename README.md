@@ -4,7 +4,7 @@ git clone https://github.com/serikzhant/test_book .
 <br/>
 cd ./test_book
 <br/>
-python library.py
+python3 library.py
 
 -----
 Сама программа представляет из себя меню консольной библиотеки на основе ТЗ.
