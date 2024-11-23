@@ -8,7 +8,6 @@ cd ./test_book
 <br/>
 python3 library.py
 
-<br/><br/>
 windows
 <br/>
 git clone https://github.com/serikzhant/test_book
