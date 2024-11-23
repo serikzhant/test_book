@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "title": "Name3",
+        "author": "Author3",
+        "year": "1854",
+        "status": "В наличии"
+    },
+    {
+        "id": 3,
+        "title": "Name4",
+        "author": "Author4",
+        "year": "1424",
+        "status": "В наличии"
+    }
+]
